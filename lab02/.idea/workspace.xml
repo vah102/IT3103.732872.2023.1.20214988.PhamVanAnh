@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b0ae7a6-3012-4834-a686-46cc1ceb24b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/store/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/disc/DigitalVideoDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/store1/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/test/store/StoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "refactor/packages",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/OOP prj",
     "onboarding.tips.debug.path": "D:/OOP lab/IT3103.732872.2023.1.20214988.PhamVanAnh/lab02/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -52,6 +46,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT3103.732872.2023.1.20214988.PhamVanAnh\lab02\Requirement" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
