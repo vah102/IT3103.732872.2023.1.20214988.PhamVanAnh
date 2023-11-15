@@ -74,18 +74,4 @@ public class Cart {
         }
     }
 
-    public void printCart() {
-        System.out.println("***********************CART***********************");
-        System.out.println("Ordered Items:");
-
-        for (int i = 0; i < this.qtyOrdered; ++i) {
-            DigitalVideoDisc dvd = this.itemsOrdered[i];
-            System.out.printf("%d. DVD - %s - %s - %s - %d minutes: %.2f $\n", i + 1, dvd.getTitle(), dvd.getCategory(), dvd.getDirector(), dvd.getLength(), dvd.getCost());
-        }
-
-
-        float totalCost = this.totalCost();
-        System.out.printf("Total cost: %.2f $\n", totalCost);
-        System.out.println("***************************************************");
-    }
 }

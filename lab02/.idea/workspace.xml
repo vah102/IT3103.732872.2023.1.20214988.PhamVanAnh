@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b0ae7a6-3012-4834-a686-46cc1ceb24b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AIMSprj/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AIMSprj/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AIMSprj/DigitalVideoDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AIMSprj/TestPassingParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;topic/passing-parameter&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;topic/class-members&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OOP prj&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/OOP lab/IT3103.732872.2023.1.20214988.PhamVanAnh/lab02/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/OOP prj",
+    "onboarding.tips.debug.path": "D:/OOP lab/IT3103.732872.2023.1.20214988.PhamVanAnh/lab02/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
