@@ -8,9 +8,11 @@ public class DigitalVideoDisc {
     private int length;
     private float cost;
 
-    // accessors and mutators for the class DigitalVideoDisc
+    private static int nbDigitalVideoDiscs = 0;
+    private int id;
+
     public String getTitle() {
-        return title;
+        return this.title;
     }
 
     public void setTitle(String title) {
@@ -18,7 +20,7 @@ public class DigitalVideoDisc {
     }
 
     public String getCategory() {
-        return category;
+        return this.category;
     }
 
     public void setCategory(String category) {
@@ -26,7 +28,7 @@ public class DigitalVideoDisc {
     }
 
     public String getDirector() {
-        return director;
+        return this.director;
     }
 
     public void setDirector(String director) {
@@ -34,7 +36,7 @@ public class DigitalVideoDisc {
     }
 
     public int getLength() {
-        return length;
+        return this.length;
     }
 
     public void setLength(int length) {
@@ -42,29 +44,44 @@ public class DigitalVideoDisc {
     }
 
     public float getCost() {
-        return cost;
+        return this.cost;
     }
 
     public void setCost(float cost) {
         this.cost = cost;
     }
 
-    // Constructor
+    public int getId() {
+        return this.id;
+    }
 
-    // Create a DVD object by title
+    public DigitalVideoDisc() {
+        ++nbDigitalVideoDiscs;
+        this.id = nbDigitalVideoDiscs;
+    }
+
     public DigitalVideoDisc(String title) {
+        this();
         this.title = title;
     }
 
-    // Create a DVD object by category, title and cost
     public DigitalVideoDisc(String title, String category, float cost) {
+        this();
         this.title = title;
         this.category = category;
         this.cost = cost;
     }
 
-    // Create a DVD object by director, category, title and cost
     public DigitalVideoDisc(String title, String category, String director, float cost) {
+        this();
+        this.title = title;
+        this.category = category;
+        this.director = director;
+        this.cost = cost;
+    }
+
+    public DigitalVideoDisc(String title, String category, String director, int length, float cost) {
+        this();
         this.title = title;
         this.category = category;
         this.director = director;
@@ -72,14 +89,13 @@ public class DigitalVideoDisc {
         this.cost = cost;
     }
 
-    // Create a DVD object by all attributes: title, category, director, length and cost
-    public DigitalVideoDisc(String title, String category, String director, int length, float cost) {
-        this.title = title;
-        this.category = category;
-        this.director = director;
-        this.length = length;
-        this.cost = cost;
+    public int getNbDigitalVideoDiscs() {
+        return nbDigitalVideoDiscs;
+    }
+
+    public void setId() {
+        this.id = this.getNbDigitalVideoDiscs();
+        ++nbDigitalVideoDiscs;
     }
 }
-
 
