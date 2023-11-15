@@ -25,7 +25,21 @@ public class Cart {
         }
     }
 
+    //overloading by array
+//    public void addDigitalVideoDisc(DigitalVideoDisc [] dvdList){
+//        for (DigitalVideoDisc i: dvdList){
+//            addDigitalVideoDisc(i);
+//        }
+//        System.out.println("The Disc has been added!");
+//    }
 
+//    //overloading by arguments
+    public void addDigitalVideoDisc(DigitalVideoDisc ... dvdList){
+        for (DigitalVideoDisc i: dvdList){
+            addDigitalVideoDisc(i);
+        }
+        System.out.println("The Disc has been added!");
+    }
 
 
     // remove the item passed by argument from the list
