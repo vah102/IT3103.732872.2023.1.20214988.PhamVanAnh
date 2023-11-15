@@ -43,7 +43,7 @@ public class Aims {
 
         // print total cost of the items in the cart
         anOrder.listCart();
-
+        anOrder.printCart();
 
         System.out.print("Total Cost is: ");
         System.out.println(anOrder.totalCost());
