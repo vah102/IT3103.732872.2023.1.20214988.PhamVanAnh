@@ -1,4 +1,7 @@
-package AIMSprj;
+package hust.soict.dsai.store;
+
+import hust.soict.dsai.cart.Cart;
+import hust.soict.dsai.disc.DigitalVideoDisc;
 
 public class Aims {
 

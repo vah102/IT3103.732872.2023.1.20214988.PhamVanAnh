@@ -1,4 +1,6 @@
-package AIMSprj;
+package hust.soict.dsai.store1;
+
+import hust.soict.dsai.disc.DigitalVideoDisc;
 
 import java.util.ArrayList;
 import java.util.List;

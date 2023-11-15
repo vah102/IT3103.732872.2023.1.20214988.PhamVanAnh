@@ -1,4 +1,7 @@
-package AIMSprj;
+package hust.soict.dsai.test.store;
+
+import hust.soict.dsai.disc.DigitalVideoDisc;
+import hust.soict.dsai.store1.Store;
 
 public class StoreTest {
 

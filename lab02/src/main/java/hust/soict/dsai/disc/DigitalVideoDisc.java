@@ -1,4 +1,4 @@
-package AIMSprj;
+package hust.soict.dsai.disc;
 
 public class DigitalVideoDisc {
     // Attributes
