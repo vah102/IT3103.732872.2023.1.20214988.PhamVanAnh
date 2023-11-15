@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b0ae7a6-3012-4834-a686-46cc1ceb24b1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AIMSprj/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AIMSprj/Cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/search-cart",
+    "git-widget-placeholder": "topic/store",
     "last_opened_file_path": "D:/OOP prj",
     "onboarding.tips.debug.path": "D:/OOP lab/IT3103.732872.2023.1.20214988.PhamVanAnh/lab02/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
