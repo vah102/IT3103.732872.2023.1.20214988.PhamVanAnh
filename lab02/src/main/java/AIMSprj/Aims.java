@@ -19,10 +19,6 @@ public class Aims {
                 "Animation", 18.99f);
         anOrder.addDigitalVideoDisc(dvd3);
 
-        DigitalVideoDisc dvd4 = new DigitalVideoDisc("Sherlock Holmes",
-               "Detective", "Conan Doyle", 98, 18.37f);
-        anOrder.addDigitalVideoDisc(dvd4);
-
         // Kết quả chạy thử overloading arguments
 //        DigitalVideoDisc dvd1 = new DigitalVideoDisc("Sherlock Holmes",
 //                "Detective", "Conan Doyle", 98, 18.37f);
@@ -47,13 +43,11 @@ public class Aims {
 
         // print total cost of the items in the cart
         anOrder.listCart();
-   
+
 
         System.out.print("Total Cost is: ");
         System.out.println(anOrder.totalCost());
-        System.out.println("Phạm Vân Anh ");
-        System.out.println("20214988");
-
+        System.out.println("Phạm Vân Anh 20214988");
     }
 }
 
