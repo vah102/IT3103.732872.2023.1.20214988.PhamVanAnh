@@ -1,12 +1,10 @@
-package hust.soict.dsai.aims.cart;
+package hust.soict.dsai.aims.aims.cart;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Iterator;
 
-import hust.soict.dsai.aims.media.Media;
-import hust.soict.dsai.aims.media.MediaComparatorByCostTitle;
-import hust.soict.dsai.aims.media.MediaComparatorByTitleCost;
+import hust.soict.dsai.aims.aims.media.Media;
 
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20;
